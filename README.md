@@ -12,5 +12,5 @@ Para executar, siga os passos:
     2. Coloque as entradas no arquivo "entrada.txt"
 
     3. Execute o comando "python projeto.py" no prompt de comando.
+
     
-    # metodos-numericos-18-2
